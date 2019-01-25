@@ -4,11 +4,4 @@ Git has a mutable index called stage
 Git traks changes
 lost in step.
 see whether it can change
-<<<<<<< HEAD
-try push 
 
-=======
-Creating a new branch is quick
-ssh try
-Creating a new branch is quick.
->>>>>>> dev
